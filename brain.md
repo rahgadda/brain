@@ -11,6 +11,18 @@
   - The primary function of the CSF is to act as a buffer for the brain, cushioning mechanical shocks and dampening minor jolts.
   - It also provides basic immunological protection to the brain.
 
+## Neurons
+- Neurons are the fundamental building blocks of brain, constantly communicating with each other to process information, generate thoughts, and control actions.
+- These neurons don't directly connect; instead, they communicate through `electrical signals` and `chemical messengers`.
+- When a neuron is stimulated, it generates an electrical impulse that travels down its long, thin fiber called an `axon`.
+- At the end of the axon, the electrical signal reaches tiny junctions called `synapses`.
+- Here, the electrical signal can trigger the release of chemical messengers called `neurotransmitters`.
+- These neurotransmitters then hop across the gap to another neuron's `dendrites` and influence its activity.
+- When a large group of neurons in a specific brain region fire (send electrical impulses) in a synchronized manner, the combined electrical activity becomes strong enough to be detected by EEG or ECoG.
+- The frequency (cycles per second) of these synchronized electrical discharges determines the type of `brainwave` we observe. 
+
+    ![](./00-images/Neuron.png)
+
 ## Brain Wave Chart
 - A brainwave chart is a visual representation of the brain's electrical activity at different frequencies. It helps us understand the dominant brainwaves and the associated mental state.
 - Breakdown
