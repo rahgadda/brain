@@ -14,7 +14,7 @@
 ## Brain Wave Chart
 - A brainwave chart is a visual representation of the brain's electrical activity at different frequencies. It helps us understand the dominant brainwaves and the associated mental state.
 - Breakdown
-  - **Frequency (Hz):** Number of cycles per second of the brainwave activity.
+  - **Frequency (Hz):** Number of cycles per second of the brain wave activity.
   - **Brainwave Types:**
     - **Delta (0.5-4 Hz):** These are the slowest waves, dominant during deep sleep and unconsciousness.
     - **Theta (4-7.5 Hz):** Theta waves are associated with drowsiness, daydreaming, and light sleep.
